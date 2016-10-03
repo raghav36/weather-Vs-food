@@ -10,3 +10,4 @@ The user is asked for the City and Cuisine in the welcome.jsp page
 
 Based on the city and cuisine, the weather and the top 3 restuarants are output on citycuisine.jsp using JSON data from openweatherdata.org and Yelp respectively.
 
+Technologies used: Java, XML, JSP, JSON, Tomcat Server, MySQL
